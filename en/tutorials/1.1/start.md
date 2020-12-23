@@ -54,7 +54,7 @@ The buttons are grouped together:
 * Mode: This button is so important, it goes in its own group. Click it to
   change Mu's current mode. Each mode has different capabilities depending on
   what it is you want to achieve. If you want to know more about modes, there
-  is a [tutorial about modes](modes) for you to read next.
+  is a [tutorial about modes](modes{{ html }}) for you to read next.
 
 * File system: The "New", "Load" and "Save" buttons in this group allow you to
   interact with files on your computer's hard drive.
@@ -162,4 +162,4 @@ Steps 3, 4 and 5 are shown below:
 </div>
 
 Congratulations! You've just written and run your first Python program using
-Mu. Next, why not learn about [modes in Mu](modes)?
+Mu. Next, why not learn about [modes in Mu](modes{{ html }})?
