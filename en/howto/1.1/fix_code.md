@@ -11,7 +11,7 @@ i18n: en
 
 When starting to learn to code, it doesn't take long to realise that it's very
 hard to write software that works. When software doesn't work, we say it has
-a bug (see [how to report bugs in Mu](bugs) for the world's very first computer
+a bug (see [how to report bugs in Mu](bugs{{ html }}) for the world's very first computer
 bug).
 
 To be honest, professional software developers are just as capable of

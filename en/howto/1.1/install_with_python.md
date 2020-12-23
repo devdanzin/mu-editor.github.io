@@ -11,9 +11,9 @@ built-in package manager, [`pip`](https://pip.pypa.io/en/stable/installing/).
 **Please note: this method does not currently work on Raspberry Pi** (use
 [these instructions instead](/en/howto/1.1/install_raspberry_pi)).
 If you're on Windows and would rather not type commands you should use the
-[Windows installer for Mu](install_windows) instead. If you're using OSX on a
+[Windows installer for Mu](install_windows{{ html }}) instead. If you're using OSX on a
 Mac and want to use the simple drag-and-drop installer instead, you should use
-the [OSX installer for Mu](install_macos).
+the [OSX installer for Mu](install_macos{{ html }}).
 
 We recommend you run the following commands in a
 [virtualenv](https://pypi.org/project/virtualenv/)
@@ -61,7 +61,7 @@ Press return and the editor should launch.
     method (HINT: if you're on Windows or using OSX on a Mac, use the installer
     for the appropriate platform instead).
     As a last resort why not see if anyone can help you in the
-    <a href="/en/discuss">discussions</a>.</p>
+    <a href="/en/discuss{{ html }}">discussions</a>.</p>
     </div>
 </div>
 
