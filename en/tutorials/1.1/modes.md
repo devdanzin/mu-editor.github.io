@@ -39,7 +39,7 @@ and click OK. If you want to back out, click cancel.
       <img src="/img/en/tutorials/adafruit_logo.png" alt="Adafruit Logo" class="img-responsive center-block img-rounded"/>
     </div>
     <div class="col-md-11">
-    <p><strong><a href="adafruit{{ html }}">Adafruit</a></strong></p>
+    <p><strong><a href="adafruit{{ site._html }}">Adafruit</a></strong></p>
     <p><a href="https://adafruit.com/">Adafruit</a> make extraordinarily
     awesome boards for embedded development. Many of these boards run
     Adafruit's own flavour of <a href="http://micropython.org/">MicroPython</a>
@@ -53,7 +53,7 @@ and click OK. If you want to back out, click cancel.
       <img src="/img/en/tutorials/microbit_logo.png" alt="Microbit Logo" class="img-responsive center-block img-rounded"/>
     </div>
     <div class="col-md-11">
-    <p><strong><a href="microbit{{ html }}">BBC micro:bit</a></strong></p>
+    <p><strong><a href="microbit{{ site._html }}">BBC micro:bit</a></strong></p>
     <p>The <a href="http://microbit.org/">BBC micro:bit</a> is a small
     computing device for young coders that is capable of running MicroPython.
     Mu was originally created as volunteer led effort as part of the Python
@@ -67,7 +67,7 @@ and click OK. If you want to back out, click cancel.
       <img src="/img/en/tutorials/pygamezero_logo.png" alt="PyGameZero Logo" class="img-responsive center-block img-rounded"/>
     </div>
     <div class="col-md-11">
-    <p><strong><a href="pgzero{{ html }}">PyGame Zero</a></strong></p>
+    <p><strong><a href="pgzero{{ site._html }}">PyGame Zero</a></strong></p>
     <p>The <a href="https://pygame-zero.readthedocs.io/en/stable/">PyGame Zero</a>
     project makes it very easy to write graphical games using Python.</p>
     <p>The PyGame Zero mode understands how to play such games and where to
@@ -79,7 +79,7 @@ and click OK. If you want to back out, click cancel.
       <img src="/img/en/tutorials/python_logo.png" alt="Python Logo" class="img-responsive center-block img-rounded"/>
     </div>
     <div class="col-md-11">
-    <p><strong><a href="python{{ html }}">Python 3</a></strong></p>
+    <p><strong><a href="python{{ site._html }}">Python 3</a></strong></p>
     <p><a href="http://python.org/">Python</a> is one of the world's most
     popular professional programming
     languages. You use applications written in Python every day! Python is also

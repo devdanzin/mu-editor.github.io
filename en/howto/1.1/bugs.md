@@ -52,7 +52,7 @@ relevant, the following sorts of information:
 * Technical details like the version of Mu you're using, your OS version and
   other aspects of the context in which Mu was running. 
 
-Please remember to attach a [copy of the full log files for Mu](read_logs{{ html }}).
+Please remember to attach a [copy of the full log files for Mu](read_logs{{ site._html }}).
 
 Use plain and simple language to describe the problem and, if helpful, break
 it down into steps so developers can easily recreate the issue. Please don't

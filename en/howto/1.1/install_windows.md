@@ -20,7 +20,7 @@ If you are in an educational setting you may need to get your system administrat
 
 ## Step 1 - Download Mu Installer
 
-[Download](/en/download{{ html }}) the correct 32 bit or 64 bit installer for your operating system.
+[Download](/en/download{{ site._html }}) the correct 32 bit or 64 bit installer for your operating system.
 
 To find out whether you need a 32 bit or 64 bit installer:
 
@@ -186,6 +186,6 @@ You can start Mu by clicking on the icon in the Start menu.
     <code>/AllUsers</code> flag makes Mu available to all users of the system 
     (i.e. it's installed "system wide").</p>
     <p>If you encounter problems or wish to give feedback, please
-    <a href="/en/discuss{{ html }}">get in touch</a>.</p>
+    <a href="/en/discuss{{ site._html }}">get in touch</a>.</p>
     </div>
 </div>

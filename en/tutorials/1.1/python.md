@@ -46,7 +46,7 @@ program. This is extraordinarily useful if your code has bugs in it.
   <br/>
 </div>
 
-Read the [tutorial about how to use the visual debugger](debugger{{ html }}) for more
+Read the [tutorial about how to use the visual debugger](debugger{{ site._html }}) for more
 information.
 
 The "REPL" button opens a new panel between the text editor and Mu's footer.
@@ -66,7 +66,7 @@ Python, it's a fabulously useful tool to use for testing things and "playing
 around in code" and, because it is in a question and answer form, is a great
 way to tell a story in code. The Python 3 REPL is also very powerful with
 lots of interesting features to help you poke around. For more information
-please read the [tutorial about how to use the REPL](repl{{ html }}).
+please read the [tutorial about how to use the REPL](repl{{ site._html }}).
 
 Finally, the "Plotter" button opens the plotter pane between the text editor
 and Mu's footer. This is an easy way to visualise numeric data that your
@@ -84,4 +84,4 @@ display these numbers as a graph.
 The number of lines in the graph reflect the number of items in the tuple your
 program outputs. **Always remember to put a short pause between writing your
 Python tuples** (for example, `time.sleep(0.1)`). For more information, please
-read the [tutorial about Mu's plotter](plotter{{ html }}).
+read the [tutorial about Mu's plotter](plotter{{ site._html }}).

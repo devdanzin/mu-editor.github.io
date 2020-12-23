@@ -46,7 +46,7 @@ If you're a developer, you can find the source code
     <h4 class="media-heading">Windows Installer</h4>
     <p><a href="https://github.com/mu-editor/mu/releases/download/1.0.3/mu-editor_1.0.3_win32.exe" class="btn btn-primary" role="button">32-bit</a>
     <a href="https://github.com/mu-editor/mu/releases/download/1.0.3/mu-editor_1.0.3_win64.exe" class="btn btn-primary" role="button">64-bit</a>
-    <a href="/en/howto/1.0/install_windows{{ html }}" class="btn btn-default" role="button">Instructions</a></p>
+    <a href="/en/howto/1.0/install_windows{{ site._html }}" class="btn btn-default" role="button">Instructions</a></p>
   </div>
 </div>
 
@@ -59,7 +59,7 @@ If you're a developer, you can find the source code
   <div class="media-body">
     <h4 class="media-heading">Mac OSX Installer</h4>
     <p><a href="https://github.com/mu-editor/mu/releases/download/1.0.3/mu-editor.dmg" class="btn btn-primary" role="button">Download</a>
-    <a href="/en/howto/1.0/install_macos{{ html }}" class="btn btn-default" role="button">Instructions</a></p>
+    <a href="/en/howto/1.0/install_macos{{ site._html }}" class="btn btn-default" role="button">Instructions</a></p>
   </div>
 </div>
 
@@ -74,7 +74,7 @@ If you're a developer, you can find the source code
     <p><a href="https://github.com/AllAboutCode/PortaMu/releases/download/v1.0.2/portamu_1.0.2_win32.zip" class="btn btn-primary" role="button">Windows 32-bit</a>
     <a href="https://github.com/AllAboutCode/PortaMu/releases/download/v1.0.2/portamu_1.0.2_win64.zip" class="btn btn-primary" role="button">Windows 64-bit</a>
     <a href="https://github.com/mu-editor/mu/releases/download/1.0.2/portamu_1.0.2_osx.zip" class="btn btn-primary" role="button">Mac OSX</a>
-    <a href="/en/howto/1.0/use_portamu{{ html }}" class="btn btn-default" role="button">Instructions</a></p>
+    <a href="/en/howto/1.0/use_portamu{{ site._html }}" class="btn btn-default" role="button">Instructions</a></p>
   </div>
 </div>
 
@@ -86,7 +86,7 @@ If you're a developer, you can find the source code
   </div>
   <div class="media-body">
     <h4 class="media-heading">Python Package</h4>
-        <p><a href="/en/howto/1.0/install_with_python{{ html }}" class="btn btn-default" role="button">Instructions</a></p>
+        <p><a href="/en/howto/1.0/install_with_python{{ site._html }}" class="btn btn-default" role="button">Instructions</a></p>
   </div>
 </div>
 
@@ -98,7 +98,7 @@ If you're a developer, you can find the source code
   </div>
   <div class="media-body">
     <h4 class="media-heading">Raspbian</h4>
-        <p><a href="/en/howto/1.0/install_raspberry_pi{{ html }}" class="btn btn-default" role="button">Instructions</a></p>
+        <p><a href="/en/howto/1.0/install_raspberry_pi{{ site._html }}" class="btn btn-default" role="button">Instructions</a></p>
   </div>
 </div>
 

@@ -41,7 +41,7 @@ This technique should work on both Windows and OSX.
 
 ## Windows
 
-[Download](/en/download{{ html }}) the correct 32 bit or 64 bit version of PortaMu for
+[Download](/en/download{{ site._html }}) the correct 32 bit or 64 bit version of PortaMu for
 your operating system.
 
 To find out whether you need a 32 bit or 64 bit installer:
@@ -93,7 +93,7 @@ Then click on the "Run anyway" button.
 
 ## Mac OSX
 
-You simply need to [download](/en/download{{ html }}) the existing OSX installer, copy it
+You simply need to [download](/en/download{{ site._html }}) the existing OSX installer, copy it
 onto the pen drive and double click it on the pendrive. However, instead of
 copying the `mu-editor` icon to the "Applications" folder, you should simply
 double click it and Mu should launch. As mentioned before, this may take some

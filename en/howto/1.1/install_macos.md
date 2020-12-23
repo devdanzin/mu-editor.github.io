@@ -12,7 +12,7 @@ Mu will run on any machine running macOS version 10.11 El Capitan or later. Ther
 
 ## Step 1 - Download Mu Installer
 
-+ [Download](/en/download{{ html }}) the installer for macOS.
++ [Download](/en/download{{ site._html }}) the installer for macOS.
 
 ## Step 2 - Open the Installer
 

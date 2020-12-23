@@ -76,7 +76,7 @@ Finally, the "Plotter" button opens Mu's plotter. If your micro:bit is
 outputting tuples of numbers via the serial connection, the plotter will
 display them as a graph. This is incredibly useful for visualising any data you
 might be measuring via the micro:bit. For more information read the
-[tutorial about Mu's plotter](plotter{{ html }}).
+[tutorial about Mu's plotter](plotter{{ site._html }}).
 
 <div class="row">
   <img src="/img/en/tutorials/microbit_plotter.gif" alt="micro:bit plotter" class="img-responsive center-block img-rounded movie"/>

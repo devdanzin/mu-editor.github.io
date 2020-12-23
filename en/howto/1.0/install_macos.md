@@ -18,7 +18,7 @@ The following (silent) video demonstrates this process on Mac OS Catalina:
 
 ## Step 1 - Download Mu Installer
 
-+ [Download](/en/download{{ html }}) the installer for macOS.
++ [Download](/en/download{{ site._html }}) the installer for macOS.
 
 ## Step 2 - Open the Installer
 
