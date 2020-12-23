@@ -61,7 +61,7 @@ Press return and the editor should launch.
     method (HINT: if you're on Windows or using OSX on a Mac, use the installer
     for the appropriate platform instead).
     As a last resort why not see if anyone can help you in the
-    <a href="/en/discuss{{ site._html }}">discussions</a>.</p>
+    <a href="{{ base }}/en/discuss{{ site._html }}">discussions</a>.</p>
     </div>
 </div>
 
