@@ -1,3 +1,8 @@
+{% if jekyll.environment == "local_docs" %}
+   {% assign html = ".html" %}
+   {% assign index = "index.html" %}
+   {% assign slash_index = "/index.html" %}
+{% endif %}
 <!DOCTYPE html>
 <html lang="en">
   <head>
