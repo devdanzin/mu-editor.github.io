@@ -1,15 +1,9 @@
-{% if jekyll.environment == "local_docs" %}
-   {% assign html = ".html" %}
-   {% assign index = "index.html" %}
-   {% assign slash_index = "/index.html" %}
-{% endif %}
-
 <div class="page-header">
   <h1>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h1>
 </div>
 
 <div class="row">
   <div class="col-xs-12">
-    {{ content html=html index=index slash_index=slash_index }}
+    {{ content }}
   </div>
 </div>

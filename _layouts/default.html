@@ -2,11 +2,6 @@
 theme :
   name : mu
 ---
-{% if jekyll.environment == "local_docs" %}
-   {% assign html = ".html" %}
-   {% assign index = "index.html" %}
-   {% assign slash_index = "/index.html" %}
-{% endif %}
 
 {% include JB/setup %}
 {% include themes/mu/default.html html=html index=index slash_index=slash_index %}
