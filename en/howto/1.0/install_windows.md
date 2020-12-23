@@ -186,6 +186,6 @@ You can start Mu by clicking on the icon in the Start menu.
     <code>/AllUsers</code> flag makes Mu available to all users of the system 
     (i.e. it's installed "system wide").</p>
     <p>If you encounter problems or wish to give feedback, please
-    <a href="{{ base }}/en/discuss{{ site._html }}">get in touch</a>.</p>
+    <a href="/en/discuss{{ site._html }}">get in touch</a>.</p>
     </div>
 </div>
