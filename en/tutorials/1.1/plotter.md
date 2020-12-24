@@ -95,7 +95,7 @@ These are examples of **bad data**:
 That's it! This whole process is shown below...
 
 <div class="row">
-  <img src="/img/en/tutorials/python3_plotter.gif" alt="The plotter" class="img-responsive center-block img-rounded movie"/>
+  <video autoplay loop muted playsinline><source src="/img/en/tutorials/python3_plotter.mp4" " type="video/mp4" alt="The plotter" class="img-responsive center-block img-rounded movie"></video>
   <br/>
 </div>
 

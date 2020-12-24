@@ -39,7 +39,7 @@ sure the pane has keyboard focus (just click it!) and then type CTRL-C, as
 shown below:
 
 <div class="row">
-  <img src="/img/en/tutorials/adafruit_serial.gif" alt="Adafruit serial" class="img-responsive center-block img-rounded movie"/>
+  <video autoplay loop muted playsinline><source src="/img/en/tutorials/adafruit_serial.mp4" " type="video/mp4" alt="Adafruit serial" class="img-responsive center-block img-rounded movie"></video>
   <br/>
 </div>
 
@@ -50,7 +50,7 @@ measuring via the device. For more information read the
 [tutorial about Mu's plotter](plotter{{ site._html }}).
 
 <div class="row">
-  <img src="/img/en/tutorials/adafruit_plotter.gif" alt="Adafruit plotter" class="img-responsive center-block img-rounded movie"/>
+  <video autoplay loop muted playsinline><source src="/img/en/tutorials/adafruit_plotter.mp4" " type="video/mp4" alt="Adafruit plotter" class="img-responsive center-block img-rounded movie"></video>
   <br/>
 </div>
 

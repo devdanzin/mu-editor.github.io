@@ -31,7 +31,7 @@ device's display.
 The process of flashing takes about 10 seconds, as shown below:
 
 <div class="row">
-  <img src="/img/en/tutorials/microbit_flash.gif" alt="micro:bit flash" class="img-responsive center-block img-rounded movie"/>
+  <video autoplay loop muted playsinline><source src="/img/en/tutorials/microbit_flash.mp4" " type="video/mp4" alt="micro:bit flash" class="img-responsive center-block img-rounded movie"></video>
   <br/>
 </div>
 
@@ -58,7 +58,7 @@ computer. Drag files between each to copy them. To delete a file on the
 micro:bit, right click it and select "Delete".
 
 <div class="row">
-  <img src="/img/en/tutorials/microbit_files.gif" alt="micro:bit files" class="img-responsive center-block img-rounded movie"/>
+  <video autoplay loop muted playsinline><source src="/img/en/tutorials/microbit_files.mp4" " type="video/mp4" alt="micro:bit files" class="img-responsive center-block img-rounded movie"></video>
   <br/>
 </div>
 
@@ -73,7 +73,7 @@ Python which you type, evaluates what these may mean, prints out any result it
 has for you and then loops back to wait for your next Python instruction.
 
 <div class="row">
-  <img src="/img/en/tutorials/microbit_repl.gif" alt="micro:bit repl" class="img-responsive center-block img-rounded movie"/>
+  <video autoplay loop muted playsinline><source src="/img/en/tutorials/microbit_repl.mp4" " type="video/mp4" alt="micro:bit repl" class="img-responsive center-block img-rounded movie"></video>
   <br/>
 </div>
 
@@ -91,6 +91,6 @@ might be measuring via the micro:bit. For more information read the
 [tutorial about Mu's plotter](plotter{{ site._html }}).
 
 <div class="row">
-  <img src="/img/en/tutorials/microbit_plotter.gif" alt="micro:bit plotter" class="img-responsive center-block img-rounded movie"/>
+  <video autoplay loop muted playsinline><source src="/img/en/tutorials/microbit_plotter.mp4" " type="video/mp4" alt="micro:bit plotter" class="img-responsive center-block img-rounded movie"></video>
   <br/>
 </div>

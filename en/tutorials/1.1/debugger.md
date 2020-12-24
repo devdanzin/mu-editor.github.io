@@ -104,6 +104,6 @@ called the current function.
 All these sorts of interactions are illustrated below.
 
 <div class="row">
-  <img src="/img/en/tutorials/debugger.gif" alt="The Visual Debugger" class="img-responsive center-block img-rounded movie"/>
+  <video autoplay loop muted playsinline><source src="/img/en/tutorials/debugger.mp4" " type="video/mp4" alt="The Visual Debugger" class="img-responsive center-block img-rounded movie"></video>
   <br/>
 </div>

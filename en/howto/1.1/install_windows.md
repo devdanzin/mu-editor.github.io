@@ -10,7 +10,7 @@ Installing Mu in Windows is super easy (if you are a network administrator we
 recommend you [read the instructions at the bottom of the page](#admins)).
 
 <div class="row">
-  <img src="/img/en/howto/windows_mu_installer.gif" alt="mu windows installer" class="img-responsive center-block img-rounded movie"/>
+  <video autoplay loop muted playsinline><source src="/img/en/howto/windows_mu_installer.mp4" " type="video/mp4" alt="mu windows installer" class="img-responsive center-block img-rounded movie"></video>
   <br/>
 </div>
 
