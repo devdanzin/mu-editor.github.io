@@ -23,7 +23,7 @@ the folder Mu uses as your working directory (see the tutorial called
 [where are my files?](/en/tutorials/1.0/files{{ site._html }})).
 
 <div class="row">
-  <video autoplay loop muted playsinline><source src="/img/en/howto/microbit_files.mp4" " type="video/mp4" alt="Moving files with a micro:bit" class="img-responsive center-block img-rounded movie"></video>
+  <video autoplay loop muted playsinline><source src="/img/en/howto/microbit_files.mp4" type="video/mp4" alt="Moving files with a micro:bit" class="img-responsive center-block img-rounded movie"></video>
   <br/>
 </div>
 

@@ -27,7 +27,7 @@ PyGameZero will appear on your desktop. This makes it very easy to see, test
 and check your game is working how you expected it to!
 
 <div class="row">
-  <video autoplay loop muted playsinline><source src="/img/en/tutorials/pgzero_play.mp4" " type="video/mp4" alt="PyGameZero play" class="img-responsive center-block img-rounded movie"></video>
+  <video autoplay loop muted playsinline><source src="/img/en/tutorials/pgzero_play.mp4" type="video/mp4" alt="PyGameZero play" class="img-responsive center-block img-rounded movie"></video>
   <br/>
 </div>
 
@@ -41,7 +41,7 @@ you should put such game assets (simply drag and drop things into them using
 your operating system's file manager).
 
 <div class="row">
-  <video autoplay loop muted playsinline><source src="/img/en/tutorials/pgzero_images.mp4" " type="video/mp4" alt="PyGameZero images" class="img-responsive center-block img-rounded movie"></video>
+  <video autoplay loop muted playsinline><source src="/img/en/tutorials/pgzero_images.mp4" type="video/mp4" alt="PyGameZero images" class="img-responsive center-block img-rounded movie"></video>
   <br/>
 </div>
 

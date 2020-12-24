@@ -135,7 +135,7 @@ and query the whole of Python.
     lists them all.</p>
     <p>Tab completion is demonstrated below:</p>
     <div class="row">
-      <video autoplay loop muted playsinline><source src="/img/en/tutorials/tab_complete.mp4" " type="video/mp4" alt="Tab complete" class="img-responsive center-block img-rounded movie"></video>
+      <video autoplay loop muted playsinline><source src="/img/en/tutorials/tab_complete.mp4" type="video/mp4" alt="Tab complete" class="img-responsive center-block img-rounded movie"></video>
       <br/>
     </div>
     </div>
@@ -211,7 +211,7 @@ It's just Python saying it's been interrupted.
 ## Python 3 REPL
 
 <div class="row">
-  <video autoplay loop muted playsinline><source src="/img/en/tutorials/python3_repl.mp4" " type="video/mp4" alt="Python 3 REPL" class="img-responsive center-block img-rounded movie"></video>
+  <video autoplay loop muted playsinline><source src="/img/en/tutorials/python3_repl.mp4" type="video/mp4" alt="Python 3 REPL" class="img-responsive center-block img-rounded movie"></video>
   <br/>
 </div>
 
@@ -294,7 +294,7 @@ Getting to the REPL is very easy:
 These steps are demonstrated below.
 
 <div class="row">
-  <video autoplay loop muted playsinline><source src="/img/en/tutorials/adafruit_serial.mp4" " type="video/mp4" alt="Adafruit REPL" class="img-responsive center-block img-rounded movie"></video>
+  <video autoplay loop muted playsinline><source src="/img/en/tutorials/adafruit_serial.mp4" type="video/mp4" alt="Adafruit REPL" class="img-responsive center-block img-rounded movie"></video>
   <br/>
 </div>
 
@@ -304,7 +304,7 @@ The REPL on the BBC micro:bit is easy to use, just click the "REPL" button as
 shown below.
 
 <div class="row">
-  <video autoplay loop muted playsinline><source src="/img/en/tutorials/microbit_repl.mp4" " type="video/mp4" alt="BBC micro:bit REPL" class="img-responsive center-block img-rounded movie"></video>
+  <video autoplay loop muted playsinline><source src="/img/en/tutorials/microbit_repl.mp4" type="video/mp4" alt="BBC micro:bit REPL" class="img-responsive center-block img-rounded movie"></video>
   <br/>
 </div>
 

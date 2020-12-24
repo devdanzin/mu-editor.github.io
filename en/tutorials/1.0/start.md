@@ -157,7 +157,7 @@ Let's create your first Python program with Mu.
 Steps 3, 4 and 5 are shown below:
 
 <div class="row">
-  <video autoplay loop muted playsinline><source src="/img/en//mu.mp4" " type="video/mp4" alt="Hello from Mu!" class="img-responsive center-block img-rounded movie"></video>
+  <video autoplay loop muted playsinline><source src="/img/en//mu.mp4" type="video/mp4" alt="Hello from Mu!" class="img-responsive center-block img-rounded movie"></video>
   <br/>
 </div>
 

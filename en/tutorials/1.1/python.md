@@ -31,7 +31,7 @@ allows you to type Python commands to check the end state of your program. If
 in doubt, just click "Stop".
 
 <div class="row">
-  <video autoplay loop muted playsinline><source src="/img/en/tutorials/python3_run.mp4" " type="video/mp4" alt="Python 3 mode run" class="img-responsive center-block img-rounded movie"></video>
+  <video autoplay loop muted playsinline><source src="/img/en/tutorials/python3_run.mp4" type="video/mp4" alt="Python 3 mode run" class="img-responsive center-block img-rounded movie"></video>
   <br/>
 </div>
 
@@ -42,7 +42,7 @@ step through your code so you can follow how Python is interpreting your
 program. This is extraordinarily useful if your code has bugs in it.
 
 <div class="row">
-  <video autoplay loop muted playsinline><source src="/img/en/tutorials/python3_debug.mp4" " type="video/mp4" alt="Python 3 mode debug" class="img-responsive center-block img-rounded movie"></video>
+  <video autoplay loop muted playsinline><source src="/img/en/tutorials/python3_debug.mp4" type="video/mp4" alt="Python 3 mode debug" class="img-responsive center-block img-rounded movie"></video>
   <br/>
 </div>
 
@@ -57,7 +57,7 @@ result it has for you and then loops back to wait for your next Python
 instruction.
 
 <div class="row">
-  <video autoplay loop muted playsinline><source src="/img/en/tutorials/python3_repl.mp4" " type="video/mp4" alt="Python 3 mode REPL" class="img-responsive center-block img-rounded movie"></video>
+  <video autoplay loop muted playsinline><source src="/img/en/tutorials/python3_repl.mp4" type="video/mp4" alt="Python 3 mode REPL" class="img-responsive center-block img-rounded movie"></video>
   <br/>
 </div>
 
@@ -77,7 +77,7 @@ tuple (i.e. the output looks like this: `(1, 2, 3)`) then the plotter will
 display these numbers as a graph.
 
 <div class="row">
-  <video autoplay loop muted playsinline><source src="/img/en/tutorials/python3_plotter.mp4" " type="video/mp4" alt="Python 3 mode plotter" class="img-responsive center-block img-rounded movie"></video>
+  <video autoplay loop muted playsinline><source src="/img/en/tutorials/python3_plotter.mp4" type="video/mp4" alt="Python 3 mode plotter" class="img-responsive center-block img-rounded movie"></video>
   <br/>
 </div>
 
